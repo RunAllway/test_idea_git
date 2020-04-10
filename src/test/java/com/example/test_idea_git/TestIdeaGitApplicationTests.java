@@ -10,6 +10,7 @@ class TestIdeaGitApplicationTests {
     void contextLoads() {
         System.out.println("22222");
 System.out.println("sy修改了代码");
+System.out.println("sy又修改了代码");
     }
 
 }

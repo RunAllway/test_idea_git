@@ -11,6 +11,7 @@ public class TestIdeaGitApplication {
         SpringApplication.run(TestIdeaGitApplication.class, args);
         Person p = new Person("zahngsan","lsi",12);
         System.out.println(p);
+        System.out.println(p);
     }
 
 }

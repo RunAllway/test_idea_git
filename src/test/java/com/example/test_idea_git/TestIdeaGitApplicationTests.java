@@ -9,6 +9,7 @@ class TestIdeaGitApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("22222");
+System.out.println("sy修改了代码");
     }
 
 }
